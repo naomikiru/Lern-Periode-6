@@ -10,5 +10,12 @@ Dafür habe ich vor in den nächsten Modulen gute und auch bessere Noten zu habe
 Zielnoten:
 Meine Zielnote für den ersten Semester wäre eine 4.5 bis eine 5. 
 
+Arbeitspakete LP 6:
+- [ ] An den Modulen arbeiten
+- [ ] Im LA Modul Aufträge bearbeiten/nachholen wenn nötig.
+
+
 # 16.8.2024
+- [ ] Auftrag 1706 fertig machen
+- [ ] Auftrag 1710 und 1711 fertig bearbeiten
 
