@@ -15,7 +15,7 @@ Arbeitspakete LP 6:
 - [ ] Im LA Modul Aufträge bearbeiten/nachholen wenn nötig.
 
 
-# 16.8.2024
+# 22.8.2024
 - [ ] Auftrag 1706 fertig machen
 - [ ] Auftrag 1710 und 1711 fertig bearbeiten
 
