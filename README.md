@@ -16,6 +16,12 @@ Arbeitspakete LP 6:
 
 
 # 22.8.2024
-- [ ] Auftrag 1706 fertig machen
-- [ ] Auftrag 1710 und 1711 fertig bearbeiten
+- [x] Auftrag 1706 fertig machen
+- [x] Auftrag 1710 und 1711 fertig bearbeiten
+
+Heute habe ich meine Aufträge von den modulen gemacht und auch fertig bearbeitet. Ich habe zuerst die Aufträge 1710 und 1711 gemacht, weil sie schneller gehen als der Auftrag 1706. 
+
+
+# 30.08.2024
+
 
