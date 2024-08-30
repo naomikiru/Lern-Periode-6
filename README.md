@@ -25,3 +25,9 @@ Heute habe ich meine Aufträge von den modulen gemacht und auch fertig bearbeite
 # 30.08.2024
 - [ ] Nicht fertige Aufträge bearbeiten
 
+Heute habe ich an weitere Aufträge gearbeitet. Ich habe Aufträge im Modul 320 und Modul 231 gemacht. Ich habe auch Aufträge im Modul 231 fertig gemacht und abgegeben. 
+
+# 06.08.2024
+- [ ] Aufträge im Modul 320 fertig machen
+- [ ] Nochmals durchgehen wenn ich es nicht verstehe
+
