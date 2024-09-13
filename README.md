@@ -30,4 +30,10 @@ Heute habe ich an weitere Aufträge gearbeitet. Ich habe Aufträge im Modul 320 
 # 06.08.2024
 - [ ] Aufträge im Modul 320 fertig machen
 - [ ] Nochmals durchgehen wenn ich es nicht verstehe
+- [ ] LeftRightCenter anfangen
 
+
+# 13.09.2024
+- [ ] LeftRightCenter anfangen und weitermachen
+
+Heute habe ich am OBA vom Modul 320 angefangen, und paar Klassen schon implementiert. Ich habe nicht alles fertig gemacht, sondern nur ein bisschen programmiert. Ich habe paar Teilklassen schon implementiert. 
