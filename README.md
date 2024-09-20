@@ -52,3 +52,8 @@ Brauchen Sie Unterstützung; wo?
 -
 Erbringen Sie den Nachweis mit persönlichem Bezug (kritisch, differenziert, nicht generisch)
 
+
+# 27.09.2024
+- [ ] LefrRightCenter anfangen und weitermachen
+- [ ] Weitere Klassen implementieren
+- [ ] Modul Aufträge fertig machen; falls nicht erledigt.
