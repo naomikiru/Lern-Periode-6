@@ -37,3 +37,18 @@ Heute habe ich an weitere Aufträge gearbeitet. Ich habe Aufträge im Modul 320 
 - [ ] LeftRightCenter anfangen und weitermachen
 
 Heute habe ich am OBA vom Modul 320 angefangen, und paar Klassen schon implementiert. Ich habe nicht alles fertig gemacht, sondern nur ein bisschen programmiert. Ich habe paar Teilklassen schon implementiert. 
+
+# 20.09.2025
+- [ ] LefrRightCenter anfangen und weitermachen
+- [ ] Weitere Klassen implementieren
+
+Heute habe ich am Projekt LeftRightCenter weitergemacht. Ich habe bei den Klassen weiter programmiert. Heute habe ich auch am Modul 231, weitere Aufträge fertig gemacht.
+
+Was haben sie mitgenommen? 
+Dass man beim Projekt vom Modul 320 gut überlegen sollte, weil sonst der Code komplett falsch sein kann.
+Hatten sie Probleme; wo?
+-
+Brauchen Sie Unterstützung; wo?
+-
+Erbringen Sie den Nachweis mit persönlichem Bezug (kritisch, differenziert, nicht generisch)
+
